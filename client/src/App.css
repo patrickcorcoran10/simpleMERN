@@ -23,6 +23,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+input {
+  text-align: center;
+}
+button {
+  padding: 10px;
+  margin: 10px;
+}
 
 .App-link {
   color: #61dafb;
